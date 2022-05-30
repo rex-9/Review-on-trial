@@ -1,0 +1,67 @@
+/* Styling the body element
+		like body color and margin */
+    #main {
+      font-size: 18px;
+    }
+    
+    body {
+      background-color: #00fa9a;
+      margin-left: 20%;
+      margin-right: 20%;
+      margin-bottom: 5%;
+    }
+    
+    /* Styling the Title and giving
+        shadow to the title */
+    #title {
+      text-align: center;
+      text-shadow: 5px 5px 10px white;
+      font-size: 7vh;
+    }
+    
+    /* Setting width and display
+        type of image */
+    #img-div > img {
+      display: inline-block;
+      width: 100%;
+    }
+    
+    /* Setting font color and font
+        size of the image-caption */
+    #img-caption {
+      font-size: 18px;
+      font-family: Gill Sans;
+      color: black;
+    }
+    
+    /* Styling the content of the page like-
+        padding, font-size, font color etc.*/
+    #tribute-info {
+      background-color: rgb(46, 139, 87, 0.25);
+      box-shadow: 20px 20px 20px #98fb98;
+      font-family: Georgia;
+      padding: 25px 25px;
+      margin: 11px;
+      margin-top: 50px;
+      border-radius: 20px;
+      font-size: 18px;
+    }
+    
+    /* Styling the title of the content */
+    h1.title-APJ {
+      font-size: 35px;
+      color: white;
+      text-align: center;
+      text-shadow: 5px 5px 10px black;
+    }
+    
+    /* Styling the link provided at the end */
+    #tribute-link {
+      text-decoration: none;
+      color: black;
+    }
+    
+    p {
+      font-size: 18px;
+    }
+    
